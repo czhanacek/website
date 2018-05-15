@@ -1,0 +1,12 @@
+behavior controller
+only one function, maybe called "getBehavior"
+- returns a behavior ["mate", "eat", "sleep", "school", "nothing"]. Most of the time this should be school or nothing, or sleep.
+- takes
+    - the fish itself
+    - list of fish at thresholded distance ("how far the fish can see") from front of fish
+
+
+genetics controller
+controls mating
+fish1 declares desire to mate with fish2
+fish2 accepts or 
