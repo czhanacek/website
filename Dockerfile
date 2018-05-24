@@ -6,7 +6,7 @@ RUN git clone https://github.com/czhanacek/website
 
 WORKDIR website
 
-RUN git checkout dev
+RUN git checkout master
 RUN bundle install
 RUN bundle exec jekyll build
 RUN pwd

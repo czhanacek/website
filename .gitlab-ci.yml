@@ -11,15 +11,7 @@ before_script:
 build-master:
   stage: build
   script:
-    - docker build --pull -t czhanacek/website .
+    - docker build -t czhanacek/website .
     - docker push czhanacek/website
   only:
     - master
-
-build-dev:
-  stage: build
-  script:
-    - docker build --pull -t "czhanacek/website:dev" .
-    - docker push "czhanacek/website:dev"
-  only:
-    - dev
