@@ -23,7 +23,7 @@ title: czhanacek.com
 </div>
 <div class="row text-center">
     <p>Student at Washington State University pursuing a B.S. in Computer Science. Expected graduation 2020</p>
-    <p><a href="http://lug.wsu.edu">WSU Linux Users' Group</a> Vice President</p>
+    <p><a href="http://lug.wsu.edu">WSU Linux Users' Group</a> President</p>
     <p>Runner training for his first marathon in June 2018!</p>
     <div>
         <p>Vertcoin Address: Vdzj4AtS72WsfbYLFjfE37Y7A8XoAoK6L1</p>
