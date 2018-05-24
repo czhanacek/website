@@ -12,6 +12,6 @@ build-master:
   stage: build
   script:
     - docker build -t czhanacek/website .
-    - docker push czhanacek/website
+    - docker push czhanacek/website:latest
   only:
     - master
