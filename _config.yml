@@ -38,8 +38,8 @@ sass:
 # to override the default setting.
 exclude:
     - push_to_site.sh
-#   - Gemfile
-#   - Gemfile.lock
+    - Gemfile
+    - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
