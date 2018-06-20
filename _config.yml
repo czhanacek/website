@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://czhanacek.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: czhanacek
 github_username:  czhanacek
-
+encoding: utf-8
 # Build settings
 markdown: kramdown
 gems:
