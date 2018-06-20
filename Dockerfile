@@ -1,13 +1,15 @@
 FROM ruby:2.3 as buildstage
 RUN apt-get update 
-RUN apt-get -y install nodejs 
 ENV LANG C.UTF-8
+RUN apt-get -y install nodejs 
+
 RUN git clone https://github.com/czhanacek/website
 
 WORKDIR website
 
 RUN git checkout master
 RUN bundle install
+ENV LANG C.UTF-8
 RUN bundle exec jekyll build
 RUN pwd
 
