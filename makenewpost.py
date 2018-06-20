@@ -3,6 +3,7 @@ import argparse
 import fileinput
 import datetime
 from titlecase import titlecase
+import os
 
 parser = argparse.ArgumentParser()
 parser.add_argument("title", help="the title of the post")
@@ -16,7 +17,7 @@ if(args.title):
     date = str(now.year) + "-" + str(now.month) + "-" + str(now.day)
     date_title_string = title.split()
     date_title_string = date + "-" + "-".join(date_title_string)
-    file_path = "/home/czhanacek/blog/blog/_posts/" + date_title_string + ".md"
+    file_path = os.getcwd() + "/_posts/" + date_title_string + ".md"
     new_post_file = open(file_path, "w+")
     new_post_file.write(
 """---
