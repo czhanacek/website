@@ -1,7 +1,7 @@
 FROM ruby:2.3 as buildstage
 RUN apt-get update 
 RUN apt-get -y install nodejs 
-RUN pwd
+ENV LANG C.UTF-8
 RUN git clone https://github.com/czhanacek/website
 
 WORKDIR website
