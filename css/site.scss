@@ -40,6 +40,18 @@ p {
     color: var(--text-color);
 }
 
+p.subtitle {
+    color: #FFFFFF;
+    font-size: 65%;
+    margin-bottom: -5px;
+}
+
+p.posttitle {
+    color: #FFFFFF;
+    font-size: 130%;
+    margin-top: -5px;
+    margin-bottom: -2px;
+}
 
 h1, h2, h3, h4, h5, h6 {
     color: var(--text-color);
@@ -78,10 +90,9 @@ a {
 a.list-item {
     color: #FFFFFF;
     font-size: 130%;
-   
     .list-group-item {
         background-color: var(--true-color);
-        margin: 30px;
+        margin: 7px;
         animation-name: shadow-progress;
         animation-duration: 30s;
         box-shadow: 0px 0px 80px var(--shadow-color);

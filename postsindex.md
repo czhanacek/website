@@ -14,10 +14,12 @@ permalink: post-index.html
 {% for post in site.posts %}
     <a class="list-item" href="{{post.url}}">
         <li class="list-group-item">
-            {{post.title}} - {{ post.date | date_to_string }}
+            <p class="posttitle">{{post.title}}</p>
+            <p class="subtitle">{{ post.date | date_to_string }}
             {% if post.last-updated %}
                 (Last updated {{ post.last-updated | date_to_string }})
             {% endif %}
+            </p>
         </li>
     </a>
 {% endfor %}
