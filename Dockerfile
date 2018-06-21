@@ -14,6 +14,7 @@ RUN bundle exec jekyll build
 RUN pwd
 
 FROM nginx as runstage
+ENV LANG C.UTF-8
 COPY --from=buildstage /website/_site/ /usr/share/nginx/html/ 
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
