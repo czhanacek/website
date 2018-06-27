@@ -1,13 +1,13 @@
 ---
 layout: post
-last-updated: 2018-6-20
+last-updated: 2018-6-27
 title: Bainbridge Island Appreciation Post
 ---
 
 I grew up on Bainbridge Island, a smallish bedroom community just a 35 minute ferry ride from Seattle. Visitors would often tell me that Bainbridge was so beautiful, but I never really saw it. That is, until I went to college and really spent some time away from home. [The Palouse](https://en.wikipedia.org/wiki/Palouse) is beautiful, but in a simpler way. 
 <div class="post-img">
     <img class="cute-img" src="/assets/bainbridgefromferry.jpg"/>
-    <p>A morning view of a summer day on the ferry.</p>
+    <p>A morning view of Rockaway Beach and the mouth of Blakely Harbor on a summer day riding the Bainbridge to Seattle ferry.</p>
 </div>
 
 Bainbridge has dense woodlands, well-planned park and recreation areas, and frankly, a charming downtown area. People don’t want to seem too proud of living on Bainbridge for fear of being stereotyped as privileged, rich white people. However, I think privately, Islanders feel a strong sense of dignity for the place they call home.
