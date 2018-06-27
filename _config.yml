@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://czhanacek.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: czhanacek
 github_username:  czhanacek
-
+encoding: utf-8
 # Build settings
 markdown: kramdown
 gems:
@@ -38,8 +38,8 @@ sass:
 # to override the default setting.
 exclude:
     - push_to_site.sh
-#   - Gemfile
-#   - Gemfile.lock
+    - Gemfile
+    - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
