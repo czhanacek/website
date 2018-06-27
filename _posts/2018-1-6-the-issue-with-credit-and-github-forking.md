@@ -1,6 +1,6 @@
 ---
 layout: post
-last-updated: 2018-1-6
+last-updated: 2018-6-27
 title: The Issue With Credit and Github Forking
 ---
 
