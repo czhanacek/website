@@ -6,13 +6,14 @@
 @import "bootstrap";
 // Variables
 :root {
-    --main-background: #C7E4D1;
-    --content-background: rgba(224, 241, 230, 0.4);
+    --main-background: #FFFFFF;
+    --content-background: #F2F2F7;
     --shadow-color: #2F5036;
-    --true-color: #0D880D;
-    --accent-color: #176902;
+    --true-color: #47A8BD;
+    --accent-color: #2E6B79; // link color too
     --text-color: rgb(0,0,0);
-    --excited-color: rgba(217, 248, 166, 0.863);
+    --excited-color: #B8DBD9;
+    --title-color: #000000;
 }
 
 
@@ -25,7 +26,7 @@
     height: 80px;
     background-color: var(--true-color);
     border-radius: 5px;
-    box-shadow: 0px 0px 80px var(--shadow-color);
+    box-shadow: 0px 0px 5px var(--shadow-color);
     animation-name: shadow-progress;
     animation-duration: 30s;
 
@@ -41,13 +42,13 @@ p {
 }
 
 p.subtitle {
-    color: #FFFFFF;
+    color: var(--title-color);
     font-size: 65%;
     margin-bottom: -5px;
 }
 
 p.posttitle {
-    color: #FFFFFF;
+    color: var(--title-color);
     font-size: 130%;
     margin-top: -5px;
     margin-bottom: -2px;
@@ -72,7 +73,7 @@ div.post-img {
     text-align: center;
     justify-content: center;
     padding: 5px;
-    box-shadow: 0px 0px 15px var(--shadow-color);
+    box-shadow: 0px 0px 5px var(--shadow-color);
 }
 
 .content-block {
@@ -88,15 +89,15 @@ a {
 }
 
 a.list-item {
-    color: #FFFFFF;
+    color: var(--title-color);
     font-size: 130%;
     .list-group-item {
         background-color: var(--true-color);
         margin: 7px;
         animation-name: shadow-progress;
         animation-duration: 30s;
-        box-shadow: 0px 0px 80px var(--shadow-color);
-        border-color: var(--accent-color);
+        box-shadow: 0px 0px 5px var(--shadow-color);
+        border-color: var(--true-color);
         
     }
 }
@@ -109,27 +110,27 @@ a.list-item {
 }
 
 a.list-item:visited {
-    color: #FFFFFF;
+    color: var(--title-color);
     font-size: 130%;
 
     .list-group-item {
         background-color: var(--true-color);
         
-        box-shadow: 0px 0px 80px var(--shadow-color);
-        border-color: var(--accent-color);
+        box-shadow: 0px 0px 5px var(--shadow-color);
+        border-color: var(--true-color);
         
     }
 }
 
 a.list-item:hover, a.list-item:active {
-    color: var(--excited-color);
+    color: var(--title-color);
     font-size: 130%;
 
     .list-group-item {
         background-color: var(--true-color);
         
-        box-shadow: 0px 0px 80px var(--shadow-color);
-        border-color: var(--accent-color);
+        box-shadow: 0px 0px 5px var(--shadow-color);
+        border-color: var(--true-color);
         
     }
 }
@@ -139,15 +140,10 @@ a.list-item:hover, a.list-item:active {
     0%   {
         box-shadow: 0px 0px 0px var(--shadow-color);
     }
-    33% {
-        box-shadow: 0px 0px 25px var(--shadow-color);
-    }
-    66% {
-        box-shadow: 0px 0px 50px var(--shadow-color);
-    }
     100% {
-        box-shadow: 0px 0px 80px var(--shadow-color);
+        box-shadow: 0px 0px 5px var(--shadow-color);
     }
+    
 }
 
 
