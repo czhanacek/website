@@ -24,7 +24,7 @@ title: czhanacek.com
         Expected graduation 2020.</h3>
         <br />
         <div class="post-img">
-            <img class="cute-img" src="/assets/withtux.jpg"/>
+            <img class="cute-img" src="/assets/withtux.JPG"/>
             <p>Hanging with Tux at WSUCon XVII in 2018 (too bad the Google Pixel didn't recognize Tux's face)</p>
         </div>
         <h3><a href="http://lug.wsu.edu">WSU Linux Users' Group</a> Vice President (2017-2018) and President (2018-2019)</h3>
