@@ -40,6 +40,18 @@ title: czhanacek.com
             <img class="cute-img" src="/assets/postmarathon.jpg"/>
             <p>Minutes after finishing</p>
         </div>
+        <h3>Bicyclist</h3>
+        <p>I love biking! It's a great way to get exercise and explore new places while not contributing to greenhouse gas emissions!</p>
+        <div class="post-img">
+            <img class="cute-img" src="/assets/bikeatlocks.jpg"/>
+            <p>Biking with friends David Kimmerlein (center) and Ben Scott (right) in the summer of 2017. We stopped to watch some boats go through the Ballard Locks.</p>
+        </div>
+        <h3>Train Fan</h3>
+        <p>I like trains. What can I say?</p>
+        <div class="post-img">
+            <img class="cute-img" src="/assets/tracklesstrain.jpg"/>
+            <p>In front of "Da Train" trackless train at the Bainbridge Island Grand Old Fourth parade in July 2018</p>
+        </div>
         <div>
             <p>Vertcoin Address: Vdzj4AtS72WsfbYLFjfE37Y7A8XoAoK6L1</p>
         </div>
