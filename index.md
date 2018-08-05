@@ -15,7 +15,8 @@ title: czhanacek.com
             <a href="https://linkedin.com/in/czhanacek"><img src="assets/linkedin.png" class="socialmedia"/></a>
             <a href="https://github.com/czhanacek" ><img src="assets/github-logo.png" class="socialmedia"/></a>
         </div>
-     </div>
+        <p>Or, <a href="mailto:charlie@czhanacek.com">send me an email</a></p>
+    </div>
 </div>
 <div class="row">
     <div class="col-md-offset-3 col-md-6">
