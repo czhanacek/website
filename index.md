@@ -9,13 +9,13 @@ title: czhanacek.com
 
 <div class="row">
     <div class="col-md-8 col-md-offset-2 text-center">
-        <h1>Charlie Hanacek</h1>
-        <div class="table-responsive">
-            <a href="https://twitter.com/czhanacek" ><img src="assets/twitter-logo.svg" class="socialmedia"/></a>
-            <a href="https://linkedin.com/in/czhanacek"><img src="assets/linkedin.png" class="socialmedia"/></a>
-            <a href="https://github.com/czhanacek" ><img src="assets/github-logo.png" class="socialmedia"/></a>
-        </div>
-        <p>Or, <a href="mailto:charlie@czhanacek.com">send me an email</a></p>
+        <h1>Hi, I'm Charlie Hanacek.</h1>
+        <h3>Contact Me</h3>
+        <p><a href="https://twitter.com/czhanacek">Twitter</a>, 
+        <a href="https://linkedin.com/in/czhanacek">LinkedIn</a>, 
+        <a href="https://github.com/czhanacek">GitHub</a>.
+        <br />
+        Or, <a href="mailto:charlie@czhanacek.com">send me an email</a></p>
     </div>
 </div>
 <div class="row">
