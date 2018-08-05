@@ -23,7 +23,7 @@ permalink: memes.html
 </div>
 
 <div class="post-img">
-    <img class="cute-img" src="/assets/memes/raccoon.png"/>
+    <img class="cute-img" src="/assets/memes/raccoon.PNG"/>
     <p></p>
 </div>
 <div class="post-img">
