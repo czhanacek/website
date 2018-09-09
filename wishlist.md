@@ -2,7 +2,7 @@
 title: Wishlist
 regenerate: true
 layout: page
-permalink: wishlist
+permalink: wishlist.html
 ---
 
 # My Wishlist
