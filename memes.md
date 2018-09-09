@@ -5,7 +5,7 @@
 layout: page
 regenerate: true
 title: Favorite Memes
-permalink: /memes
+permalink: memes
 ---
 
 <p>Memes are the humor of my generation. Here are some of my (PG-13 and below) favorites. I try to credit where possible. Many uncredited memes were sent to me by meme afficionado <a href="https://www.instagram.com/maryellenmartinsen/">Mary Ellen Martinsen.</a></p>
