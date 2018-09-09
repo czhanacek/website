@@ -60,7 +60,10 @@ title: czhanacek.com
             <a class="list-item" href="/post-index.html"><li class="list-group-item">Blog Posts</li></a>
         </ul>
         <ul class="list-group text-center">
-            <a class="list-item" href="/memes.html"><li class="list-group-item">Memes</li></a>
+            <a class="list-item" href="/memes"><li class="list-group-item">Memes</li></a>
+        </ul>
+        <ul class="list-group text-center">
+            <a class="list-item" href="/wishlist"><li class="list-group-item">Wishlist</li></a>
         </ul>
     </div>
 </div>
