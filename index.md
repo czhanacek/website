@@ -62,5 +62,8 @@ title: czhanacek.com
         <ul class="list-group text-center">
             <a class="list-item" href="/memes.html"><li class="list-group-item">Memes</li></a>
         </ul>
+        <ul class="list-group text-center">
+            <a class="list-item" href="/wishlist.html"><li class="list-group-item">Wishlist</li></a>
+        </ul>
     </div>
 </div>
