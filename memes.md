@@ -74,3 +74,9 @@ permalink: memes.html
     <img class="cute-img" src="/assets/memes/IMG_4919.JPG"/>
     <p></p>
 </div>
+
+
+<div class="post-img">
+    <a name="turkey"><img class="cute-img" src="/assets/memes/turkey.png"/></a>
+    <p>original <a href="https://twitter.com/YoungBanter/status/1032411102221545472">tweet</a></p>
+</div>
