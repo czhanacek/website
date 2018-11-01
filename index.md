@@ -26,7 +26,7 @@ title: czhanacek.com
         <br />
         <div class="post-img">
             <img class="cute-img" src="/assets/withtux.JPG"/>
-            <p>Hanging with Tux at WSUCon XVII in 2018 (too bad the Google Pixel didn't recognize Tux's face)</p>
+            <p>Hanging with Tux at WSUCon XVI in 2018 (too bad the Google Pixel didn't recognize Tux's face)</p>
         </div>
         <h3><a href="http://lug.wsu.edu">WSU Linux Users' Group</a> Vice President (2017-2018) and President (2018-2019)</h3>
         <p>As Vice President, I helped to organize and execute WSU's annual gaming convention, WSUCon XVII. Additionally, we launched the <a href="http://lug.wsu.edu/pi-condo.html">Pi Condo</a> which is a project that gives students' Raspberry Pi's a secure space and public IP. This empowers "tenants" to explore, play, and create on a Linux system they own without very much risk to themselves or others.
