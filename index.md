@@ -26,7 +26,7 @@ title: czhanacek.com
         <br />
         <div class="post-img">
             <img class="cute-img" src="/assets/withtux.JPG"/>
-            <p>Hanging with Tux at WSUCon XVI in 2018 (too bad the Google Pixel didn't recognize Tux's face)</p>
+            <p>Hanging with Tux at <a href="https://wsucon.wsu.edu">WSUCon</a> XVI in 2018</p>
         </div>
         <h3><a href="http://lug.wsu.edu">WSU Linux Users' Group</a> Vice President (2017-2018) and President (2018-2019)</h3>
         <p>As Vice President, I helped to organize and execute WSU's annual gaming convention, WSUCon XVII. Additionally, we launched the <a href="http://lug.wsu.edu/pi-condo.html">Pi Condo</a> which is a project that gives students' Raspberry Pi's a secure space and public IP. This empowers "tenants" to explore, play, and create on a Linux system they own without very much risk to themselves or others.
@@ -45,7 +45,7 @@ title: czhanacek.com
         <p>I love biking! It's a great way to get exercise and explore new places while not contributing to greenhouse gas emissions!</p>
         <div class="post-img">
             <img class="cute-img" src="/assets/bikeatlocks.jpg"/>
-            <p>Biking with friends David Kimmerlein (center) and Ben Scott (right) in the summer of 2017. We stopped to watch some boats go through the Ballard Locks.</p>
+            <p>Biking with friends in the summer of 2017. We stopped to watch some boats go through the Ballard Locks.</p>
         </div>
         <h3>Train Fan</h3>
         <p>I like trains. What can I say?</p>
@@ -61,9 +61,6 @@ title: czhanacek.com
         </ul>
         <ul class="list-group text-center">
             <a class="list-item" href="/memes.html"><li class="list-group-item">Memes</li></a>
-        </ul>
-        <ul class="list-group text-center">
-            <a class="list-item" href="/wishlist.html"><li class="list-group-item">Wishlist</li></a>
         </ul>
     </div>
 </div>
