@@ -13,7 +13,8 @@ title: czhanacek.com
         <h3>Contact Me</h3>
         <p><a href="https://twitter.com/czhanacek">Twitter</a>, 
         <a href="https://linkedin.com/in/czhanacek">LinkedIn</a>, 
-        <a href="https://github.com/czhanacek">GitHub</a>.
+        <a href="https://github.com/czhanacek">GitHub</a>,
+        <a href="https://wsu.zoom.us/j/3955436088">Zoom meeting room (occassionally staffed)</a>.
         <br />
         Or, <a href="mailto:charlie@czhanacek.com">send me an email</a></p>
     </div>
